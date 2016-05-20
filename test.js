@@ -1,1 +1,1 @@
-console.log("rebase conflict 2");
+console.log("conflict resolved");
