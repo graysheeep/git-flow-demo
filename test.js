@@ -1,1 +1,1 @@
-console.log("just a test");
+console.log("rebase conflict 2");
